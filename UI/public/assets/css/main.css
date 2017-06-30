@@ -1,0 +1,29 @@
+.sheet-list {
+    height: 930px;
+    overflow: auto;
+}
+
+.sheet-list-dragpoint {
+    float: left;
+    line-height: 40px;
+}
+
+.sheet-list-content {
+    margin-left: 25px;
+}
+
+.sheet-delete {
+    float: right;
+}
+
+.draft-sheet-item {
+    height: 60px;
+}
+
+.draft-sheet-item .sheet-list-content {
+    margin-left: 0;
+}
+
+.summary-table-cell {
+    margin-top: 20px;
+}

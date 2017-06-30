@@ -1,0 +1,23 @@
+{
+  "name": "OrangeTracker",
+  "description": "OrangeTracker",
+  "main": [
+    "less/bootstrap.less",
+    "dist/js/bootstrap.js"
+  ],
+  "authors": [
+    "Team"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
